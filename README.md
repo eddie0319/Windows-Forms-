@@ -1,4 +1,4 @@
-球鞋销售系统
+基于Web的球鞋销售系统
 
 ![image](https://user-images.githubusercontent.com/118668181/203976802-ea57fead-8d49-4dc2-8f37-b7206448090b.png)
 
